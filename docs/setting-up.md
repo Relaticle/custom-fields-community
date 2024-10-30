@@ -1,4 +1,4 @@
-# Setting up Custom Fields
+# Setting Up
 
 This section will guide you through setting up and using the Custom Fields plugin in your Filament admin panel.
 
