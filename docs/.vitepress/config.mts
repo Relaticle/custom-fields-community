@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "FilamentPHP Custom Fields",
   description: "Filament plugin that allows to add dynamic, user-defined form fields, enhancing the customization and functionality of admin panels.",
+  base: '/custom-fields-community/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
