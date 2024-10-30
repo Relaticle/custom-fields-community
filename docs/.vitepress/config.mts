@@ -10,7 +10,8 @@ export default defineConfig({
         nav: [
             {text: 'Home', link: '/'},
             {text: 'Documentation', link: '/introduction'},
-            {text: 'Buy', link: 'https://relaticle.lemonsqueezy.com/buy/803d5933-4b12-4869-9d93-f96797339603'}
+            {text: 'Buy', link: 'https://relaticle.lemonsqueezy.com/buy/803d5933-4b12-4869-9d93-f96797339603'},
+            {text: 'Demo', link: 'https://relaticle.com'},
         ],
 
         sidebar: [

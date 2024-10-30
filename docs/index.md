@@ -4,10 +4,7 @@ layout: home
 
 hero:
   name: "FilamentPHP Custom Fields"
-  tagline: "Filament plugin that allows to add dynamic, user-defined form fields, enhancing the customization and functionality of admin panels."
-  image:
-    src: ./media/custom-fields-preview.jpg
-    alt: FilamentPHP Custom Fields
+  tagline: "FilamentPHP plugin that allows to add dynamic, user-defined form fields, enhancing the customization and functionality of admin panels."
   actions:
     - theme: brand
       text: Buy Now
@@ -15,22 +12,18 @@ hero:
     - theme: alt
       text: View Documentation
       link: /introduction
+    - theme: alt
+      text: View Demo
+      link: https://relaticle.com/
 
 features:
-  - title: Wide Variety of Field Types
-    details: Support for various field types including Text, Number, Link, Textarea, Currency, Date, and more. Additional field types to be added soon.
+  - title: Comprehensive Field Management and Integration
+    details: Experience seamless integration of dynamic, user-defined custom fields within Filament resources. Support for diverse field types like Text, Number, Date, Currency, and more. Utilize a drag-and-drop interface for creating, editing, and organizing custom fields, with full compatibility for dark mode and responsive design.
 
-  - title: Dynamic Field Management
-    details: Easily create, edit, and delete custom fields. Assign custom fields to any Filament resource and organize them using a drag-and-drop interface.
+  - title: Advanced Customization and Validation
+    details: Leverage an intuitive Custom Field Builder for easy creation and management. Ensure data integrity by defining robust validation rules for each custom field to prevent invalid submissions and maintain data quality.
 
-  - title: Validation and Data Integrity
-    details: Define validation rules for each custom field to ensure data integrity and prevent invalid data submissions.
-
-  - title: Seamless Integration with Filament
-    details: Dynamically render custom fields within Filament forms and table views. Full support for dark mode and responsive design.
-
-  - title: Advanced Features
-    details: Includes a Custom Field Builder for easy creation and management. Supports multi-tenancy, tenant awareness, and is compatible with Filament's features.
-
+  - title: Tenant-Aware, Multi-Tenancy Support
+    details: Implement custom fields with advanced features such as multi-tenancy and tenant awareness, allowing tailored customization across different user segments. Maintain functionality alongside expanding Filament features, ensuring experiences are tailored while safeguarding data integrity.
 ---
 
