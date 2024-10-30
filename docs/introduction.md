@@ -13,7 +13,7 @@ radio buttons, and more. These custom fields can be assigned to any resource, pr
 for your users. The plugin integrates smoothly with Filament's existing form builder, ensuring a consistent and familiar
 experience throughout your admin panel.
 
-![Custom Fields Preview](./media/custom-fields-preview.jpg)
+![Custom Fields Preview](/media/custom-fields-preview.jpg)
 
 ---
 
@@ -30,7 +30,7 @@ Experience the full functionality of Custom Fields in action.
 Watch a short demonstration showcasing some of the powerful features included in Custom Fields.
 
 
-[![Watch the Video](./media/custom-fields-video-play-preview.png)](https://www.youtube.com/watch?v=mh65FMkXT_8)
+[![Watch the Video](/media/custom-fields-video-play-preview.png)](https://www.youtube.com/watch?v=mh65FMkXT_8)
 
 ---
 
