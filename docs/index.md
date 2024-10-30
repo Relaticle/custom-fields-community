@@ -5,6 +5,9 @@ layout: home
 hero:
   name: "FilamentPHP Custom Fields"
   tagline: "Filament plugin that allows to add dynamic, user-defined form fields, enhancing the customization and functionality of admin panels."
+  image:
+    src: /media/custom-fields-preview.jpg
+    alt: FilamentPHP Custom Fields
   actions:
     - theme: brand
       text: Buy Now
